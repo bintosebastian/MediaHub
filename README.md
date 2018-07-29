@@ -19,6 +19,7 @@ I have initially included few dependencies which i think might become useful dow
 
 ### Color
 JavaScript library for immutable color conversion and manipulation with support for CSS color strings.
+
 	> npm install color --save
 ### Lodash
 A modern JavaScript utility library delivering modularity, performance & extras.
